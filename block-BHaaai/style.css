@@ -1,0 +1,25 @@
+body
+{
+    color: white;
+    background-color: teal
+    ;
+}
+
+.Blue
+{
+    color: darkslateblue;
+}
+footer
+{
+    text-align: center;
+    background-color: darkslategray;
+}
+header
+{
+    text-align: center;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}

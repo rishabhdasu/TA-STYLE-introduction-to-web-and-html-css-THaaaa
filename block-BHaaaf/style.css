@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+}
+
+#heading
+{
+    color: blue;
+    font-size: 44px;
+}
+
+.para
+{
+    color: darkolivegreen;
+    font-size: 24px;
+}
